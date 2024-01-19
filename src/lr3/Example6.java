@@ -16,11 +16,9 @@ public class Example6 {
 
         for (int i = 0; i < arrSize; i++) {
             array[i] = 2 + 5 * i;
-        }
-
-        for (int i = 0; i < arrSize; i++) {
             System.out.print(array[i] + " ");
         }
+
         in.close();
     }
 }
