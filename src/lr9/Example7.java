@@ -1,9 +1,12 @@
 package lab9;
 
-public class LinkedList {
+import java.util.List;
+
+public class Example7 {
+
     public static void main(String[] args) {
         int n = 10;
-        java.util.LinkedList<Integer> people = new java.util.LinkedList<>();
+        List<Integer> people = new java.util.ArrayList<>();
 
         for (int i = 1; i <= n; i++) {
             people.add(i);
