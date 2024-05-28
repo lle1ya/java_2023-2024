@@ -1,4 +1,4 @@
-package lab10.example1;
+package lr10.example1;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

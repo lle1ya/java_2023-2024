@@ -1,4 +1,4 @@
-package lab10.task1;
+package lr10.task1;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
