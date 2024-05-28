@@ -1,4 +1,4 @@
-package lr10.task2;
+package lr10.Task2;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;

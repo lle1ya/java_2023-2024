@@ -1,4 +1,4 @@
-package lr10.example2;
+package lr10.Example2;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
