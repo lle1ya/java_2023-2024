@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><library>
+    
+    <book>
+        <title>Мастер и Маргарита</title>
+        <author>Михаил Булгаков</author>
+        <year>1967</year>
+    </book>
+    <book>
+        <title>Капитанская дочка</title>
+        <author>Пушкин</author>
+        <year>1836</year>
+    </book>
+</library>

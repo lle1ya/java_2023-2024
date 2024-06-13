@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <song>
+        <genre>rap</genre>
+        <singer>Kanye West</singer>
+        <track>Praise God</track>
+    </song>
+    <song>
+        <genre>rock</genre>
+        <singer>pain</singer>
+        <track>Shut Your Mouth</track>
+    </song>
+</library>

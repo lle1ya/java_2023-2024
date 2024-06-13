@@ -1,22 +1,18 @@
 package lr3;
+
 public class Example7 {
     public static void main(String[] args) {
-        int n = 10;
-
-        char[] array = new char[n];
-
-        for (int i = 0; i < n; i++) {
-            array[i] = (char) ('а' + i);
+        char[] charArray = new char[10];
+        int x = 0;
+        for (int i = 0; i < 10; i++) {
+            charArray[i] = (char) ('\u0061' + i + x++);
         }
-
-        for (int i = 0; i < n; i++) {
-            System.out.print(array[i] + " ");
+        for (char i: charArray) {
+            System.out.println(i);
         }
-
-        System.out.println("");
-
-        for (int i = n - 1; i >= 0; i--) {
-            System.out.print(array[i] + " ");
+        System.out.println();
+        for (int i = 9; i >= 0; i--) {
+            System.out.println(charArray[i]);
         }
     }
 }
